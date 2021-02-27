@@ -28,7 +28,7 @@
 </tr>
 <tr>
 <th scope="row">Nationality</th>
-<td class="category">Swiss&nbsp;(1902&ndash;19)<sup class="noprint Inline-Template">[<em><a title="Wikipedia:Accuracy dispute" href="https://en.wikipedia.org/wiki/Wikipedia:Accuracy_dispute#Disputed_statement"><span title="The material near this tag is possibly inaccurate or nonfactual. (September 2020)">dubious</span></a>&nbsp;<span class="metadata">&ndash;&nbsp;<a title="Talk:Paul Dirac" href="https://en.wikipedia.org/wiki/Talk:Paul_Dirac#Nationality">discuss</a></span></em>]</sup><br />British&nbsp;(1919&ndash;84)</td>
+<td class="category">Swiss&nbsp;(1902&ndash;19)<br />British&nbsp;(1919&ndash;84)</td>
 </tr>
 <tr>
 <th scope="row">Alma&nbsp;mater</th>
