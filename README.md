@@ -48,7 +48,7 @@ The physical interpretation of quantum mechanics</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Paul-Dirac-Papers/blob/main/p(20).pdf" style="text-decoration:none;">Does Conservation of Energy Hold in Atomic Processes?</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Paul-Dirac-Papers/blob/main/p(21).pdf" style="text-decoration:none;">rThe Elimination of the Nodes in Quantum Mechanics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Paul-Dirac-Papers/blob/main/p(21).pdf" style="text-decoration:none;">The Elimination of the Nodes in Quantum Mechanics</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Paul-Dirac-Papers/blob/main/p(22).pdf" style="text-decoration:none;">The adiabatic invariance of the quantum integrals</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Paul-Dirac-Papers/blob/main/p(23).pdf" style="text-decoration:none;">Particles of finite size in the gravitational field</a></li> 
  
